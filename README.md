@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrollobo&color=blue" alt="Profile views" /> </p>
 
 - Graduado, Analise e Desenvolvimento de sistemas
-- Atualmente estudando front-end  
+- Atualmente estudando Javascript e Front-end
 - Disponível para colaborar com projetos
 
-  Possuo mais de 10anos de experiência em liderar pessoas e projetos. Atuei como Gerente de operações no varejo e liderei processos empresariais para garantir a eficiência e
-  qualidade das operações mantendo padrões internacionais nas unidades de negócio onde atuei.
   
 
 <!---
