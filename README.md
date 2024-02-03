@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrollobo&color=blue" alt="Profile views" /> </p>
 
 - Graduado, Analise e Desenvolvimento de sistemas
-- Atualmente estudando Javascript e Front-end
+- Atualmente estudando Javascript, Front-end, Consumo e aplicação de API's
 - Disponível para colaborar com projetos
 
   
